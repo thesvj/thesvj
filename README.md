@@ -2,25 +2,18 @@
 
 PhD Researcher, IIIT Delhi | Generative AI & Multimodal Systems
 
-## Research Interests
+## Research
 
 - Generative video models and audio-visual alignment
 - Multimodal learning and cross-modal generation
 - Data-centric approaches to ML quality and robustness
 - Scalable, reproducible ML systems and pipelines
 
-## Research Focus
+## Tools & Tech
 
-- Video and audio-conditioned generation using diffusion transformers
-- High-quality dataset curation for large-scale model training
-- From-scratch algorithmic implementations for clarity and reproducibility
-- Efficient inference and evaluation methodologies
-
-## Methodology & Tools
-
-**Languages:** Python, C++, CUDA  
+**Languages:** Python, C++  
 **ML Frameworks:** PyTorch, NumPy  
-**Systems:** Hydra (config), FFmpeg (media), Triton (inference)
+**Systems:** Hydra, FFmpeg, CUDA
 
 ## Collaboration Interests
 
